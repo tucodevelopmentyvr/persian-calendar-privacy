@@ -1,6 +1,6 @@
 # Privacy Policy for Persian Calendar
 
-## Last Updated: May 2025
+## Last Updated: April 2025
 
 ## Introduction
 
@@ -32,13 +32,23 @@ Since **we do not collect any data from you or your device**, there is no inform
 
 All your data, including settings, events, and location information used for prayer times, is stored **exclusively locally on your device.** The security of this data depends on the security measures you implement on your own device. **The developer has no access to this data and therefore cannot provide security for it.**
 
-## Disclaimer of Responsibility
+## Disclaimer of Responsibility and Limitation of Liability
 
 **All data created or managed by the Persian Calendar app is stored locally on your device. The developer does not have access to, control over, or responsibility for this data.**
 
 **You, the user, are solely responsible for the management and security of the data stored on your device.** This includes backing up your data and securing your device.
 
-**The developer disclaims any and all liability for any loss, damage, corruption, or misuse of data stored locally on your device through the use of this application.** This includes, but is not limited to, data loss due to device failure, software malfunction, user error, or security breaches on your device. By using this application, you acknowledge and agree that the developer bears no responsibility whatsoever for your data.
+**THE DEVELOPER DISCLAIMS ANY AND ALL LIABILITY FOR ANY LOSS, DAMAGE, INJURY, OR CLAIM OF ANY KIND, INCLUDING BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND CONSEQUENTIAL DAMAGES, ARISING FROM OR IN ANY WAY CONNECTED WITH:**
+
+- **Your use or inability to use the application**
+- **Any inaccuracies in calendar dates, prayer times, or holiday information**
+- **Data loss, corruption, or security breaches on your device**
+- **Device failure, software malfunction, or user error**
+- **Any decisions or actions taken based on information provided by the application**
+
+**UNDER NO CIRCUMSTANCES SHALL THE DEVELOPER BE LIABLE FOR ANY DAMAGES WHATSOEVER RELATED TO YOUR USE OF THIS APPLICATION, EVEN IF THE DEVELOPER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.**
+
+**BY USING THIS APPLICATION, YOU EXPRESSLY AGREE THAT YOU USE THE APPLICATION AT YOUR OWN RISK AND THAT YOU WILL NOT HOLD THE DEVELOPER RESPONSIBLE OR LIABLE FOR ANY ISSUES OR DAMAGES THAT MAY ARISE FROM ITS USE. YOU FURTHER AGREE THAT YOU WAIVE ANY RIGHT TO BRING LEGAL ACTION AGAINST THE DEVELOPER FOR ANY REASON RELATED TO THE APPLICATION.**
 
 ## Your Rights
 
@@ -52,7 +62,9 @@ Since all data is stored locally on your device, you have complete control over 
 
 ## Changes to This Privacy Policy
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
+**We may update our Privacy Policy from time to time without prior notice. It is your responsibility as a user to periodically review this Privacy Policy to stay informed about any changes.** Changes to this Privacy Policy are effective when they are posted on this page with an updated "Last Updated" date.
+
+**By continuing to use the application after changes to the Privacy Policy, you acknowledge and agree to the updated terms. If you do not agree with the updated Privacy Policy, you should immediately stop using the application and uninstall it from your device.**
 
 ## Contact Us
 
@@ -62,4 +74,12 @@ Email: [tucodevelopmentyvr@gmail.com](mailto:tucodevelopmentyvr@gmail.com)
 
 ## Consent
 
-By using our app, you acknowledge that you have read, understood, and agree to the terms of this Privacy Policy, including the **Disclaimer of Responsibility**.
+**By downloading, installing, or using the Persian Calendar app, you expressly acknowledge that you have read, understood, and agree to be bound by all terms of this Privacy Policy, including the Disclaimer of Responsibility and Limitation of Liability section.**
+
+**You further acknowledge and agree that:**
+
+- **You are using the application at your own risk**
+- **The developer bears no responsibility for any damages or losses related to your use of the application**
+- **You will not pursue any legal action against the developer for any reason related to the application**
+- **You are responsible for periodically reviewing this Privacy Policy for changes**
+- **Your continued use of the application constitutes acceptance of any changes to this Privacy Policy**
