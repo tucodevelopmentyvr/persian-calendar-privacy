@@ -56,3 +56,13 @@ Email: tucodevelopmentyvr@gmail.com
 ## Consent
 
 By using our app, you consent to our Privacy Policy and agree to its terms.
+
+## Automatic Region-Based Prayer Time Calculation
+
+The Persian Calendar app now includes an "Automatic (Recommended)" option for prayer time calculation. If you select this option, the app will use your device's location (if you grant permission) to automatically choose the most appropriate calculation method for your region. This ensures the most accurate prayer times for your location.
+
+- **If you allow location access:** The app determines your country and selects the best calculation method (e.g., University of Tehran for Iran, ISNA for North America, MWL for Europe, etc.).
+- **If you deny location access:** The app defaults to the University of Tehran method for prayer time calculation.
+- **Your location data is used only on your device and is never sent to any server or third party.**
+
+You can always manually select your preferred calculation method in the app settings. The automatic region-based logic is designed to enhance accuracy and user experience while fully respecting your privacy.
